@@ -1,0 +1,159 @@
+body{
+    overflow-x: hidden;
+}
+body{
+    overflow-x: hidden;
+}
+.main{
+    height: 1000px;
+    background-image: url(/static/image/enrollwall.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.section1{
+    height: 60px;
+    background-color: rgba(19, 18, 18,20%);
+}
+.sec1-1{
+    height: 100%;
+}
+.sec1-1 b{
+    color: white;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 40px;
+}
+.sec1-1 i{
+    color: red;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.sec1-2{
+    height: 100%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    cursor: pointer;
+}
+.sec1-2 .fa{
+    color: blue;
+    font-size: 25px;
+    margin-top: 20px;
+    text-decoration: none;
+    transition:1s;
+}
+.sec1-2 .fa:hover{
+    color: red;
+    font-size: 35px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.section2{
+    height: 350px;
+    margin-top: 100px;
+}
+.sec2-2{
+    height: 100%;
+    background-color: rgba(5, 5, 5,30%);
+}
+.section3{
+    height: 100px;
+    color: red;
+}
+.sec3-1{
+    height: 100%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section4{
+    height: 250px;
+
+}
+.sec4-1{
+    height: 100%;
+    text-align: left;
+    color: black;
+}
+.sec4-1 input{
+    margin: 10px;
+    font-size: 15px;
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+}
+.sec4-1 input:focus{
+    margin: 10px;
+    font-size: 15px;
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+    
+}
+.select{
+    font-size: 15px;
+    margin: 10px;
+    color: brown;
+}
+.sec4-1 .sub{
+    width:90%;
+    background-color: red;
+    color: white;
+    margin-top: 30px;
+    font-weight: 300px;
+    border: 2px solid red;
+    transition: 1s;
+}
+.sec4-1 .sub:hover{
+    width:90%;
+    background-color: tomato;
+    color: white;
+    margin-top: 30px;
+    font-weight: 300px;
+    border: 2px solid tomato;
+}
+
+.block7{
+    height: 500px;
+    background-color: rgba(128, 128, 128,20%);
+    margin-top: 50px;
+}
+.b7-section1{
+    height: 100%;
+    text-align: left;
+}
+.b7-section1 h3{
+    color: brown;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.b7-section1 p{
+    color: white;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+.b7-section1 .fa{
+    color: white;
+    background-color: black;
+    margin-left: 30px;
+    height: 20px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    transition: .1s;
+}
+.b7-section1 .fa:hover{
+    color: white;
+    background-color: black;
+    margin-left: 30px;
+    height: 20px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}

@@ -1,0 +1,410 @@
+body{
+    background-color: rgb(25, 145, 214);
+    overflow-x: hidden;
+}
+.main{
+    background-color: black;
+    height: 3600px;
+    margin: 40px;
+}
+.head{
+    height: 70px;
+}
+.logo{
+    height: 100%;
+}
+.nav{
+    text-align: right;
+}
+.nav ul{
+    text-align: right;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    column-gap:80px;
+    font-size: 20px;
+    color: white;
+}
+.nav ul a{
+    color: white;
+}
+.nav ul li{
+    margin-top: 15px;
+}
+.section1{
+    height: 60px;
+   margin-left: 0px;
+   margin-right: 0px;
+}
+.sec1-1{
+    height: 100%;
+}
+.sec1-1 b{
+    font-size: 40px;
+    margin-left: 30px;
+    color:greenyellow;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.section2{
+    height: 80px;
+    margin: 0px;
+    margin-top: 30px;
+}
+.sec-2{
+    height: 100%;
+}
+.sec2-1 b{
+    color: rgb(17, 125, 168);
+    font-size: 50px;
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 5px 15px rgb(17, 125, 168);
+    border: 3px solid rgb(149, 25, 173);
+    border-radius: 5%;
+}
+.section3{
+    height: 400px;
+    margin: 0px;
+}
+.sec3-1{
+    height: 100%;
+}
+.sec3-1 h1{
+    margin-left: 50px;
+    color: white;
+    font-size: 140px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 8px 8px 15px white;
+}
+.sec3-2{
+    height: 100%;
+}
+.section4{
+    height: 70px;
+    margin-top: 20px;
+    margin: 0px;
+}
+.sec4-1{
+    height: 100%;
+}
+.sec4-1 h2{
+    font-size: 30px;
+    color: red;
+    margin-left: 30px;
+    font-family: 'Artifika';
+    font-weight: bolder;
+    cursor: pointer;
+}
+.section5{
+    height: 150px;
+    margin: 0px;
+}
+.sec5-1{
+    height: 100%;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec5-2{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec5-3{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec5-4{
+    height: 100%;
+    width: 100px;
+}
+.section6{
+    height: 150px;
+    margin: 0px;
+    margin-top: 20px;
+}
+.sec6-1{
+    height: 100%;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec6-2{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec6-3{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec6-4{
+    height: 100%;
+    width: 100px;
+}
+
+.section7{
+    height: 80px;
+    margin: 0px;
+    margin-top: 150px;
+}
+.sec-2{
+    height: 100%;
+}
+.sec7-1 b{
+    color: rgb(17, 125, 168);
+    font-size: 50px;
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 5px 15px rgb(17, 125, 168);
+    border: 3px solid rgb(149, 25, 173);
+    border-radius: 5%;
+}
+.section8{
+    height: 400px;
+    margin: 0px;
+}
+.sec8-1{
+    height: 100%;
+}
+.sec8-1 h1{
+    margin-left: 50px;
+    color: white;
+    font-size: 140px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 8px 8px 15px white;
+}
+.sec8-2{
+    height: 100%;
+}
+.section9{
+    height: 70px;
+    margin-top: 20px;
+    margin: 0px;
+}
+.sec9-1{
+    height: 100%;
+}
+.sec9-1 h2{
+    font-size: 30px;
+    color: red;
+    margin-left: 30px;
+    font-family: 'Artifika';
+    font-weight: bolder;
+    cursor: pointer;
+}
+.section10{
+    height: 150px;
+    margin: 0px;
+}
+.sec10-1{
+    height: 100%;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec10-2{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec10-3{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec10-4{
+    height: 100%;
+    width: 100px;
+}
+.section11{
+    height: 150px;
+    margin: 0px;
+    margin-top: 20px;
+}
+.sec11-1{
+    height: 100%;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec11-2{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec11-3{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec11-4{
+    height: 100%;
+    width: 100px;
+}
+
+.section12{
+    height: 80px;
+    margin: 0px;
+    margin-top: 150px;
+}
+.sec-2{
+    height: 100%;
+}
+.sec12-1 b{
+    color: rgb(17, 125, 168);
+    font-size: 50px;
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 5px 15px rgb(17, 125, 168);
+    border: 3px solid rgb(149, 25, 173);
+    border-radius: 5%;
+}
+.section13{
+    height: 400px;
+    margin: 0px;
+}
+.sec13-1{
+    height: 100%;
+}
+.sec13-1 h1{
+    margin-left: 50px;
+    color: white;
+    font-size: 140px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 8px 8px 15px white;
+}
+.sec13-2{
+    height: 100%;
+}
+.section14{
+    height: 70px;
+    margin-top: 20px;
+    margin: 0px;
+}
+.sec14-1{
+    height: 100%;
+}
+.sec14-1 h2{
+    font-size: 30px;
+    color: red;
+    margin-left: 30px;
+    font-family: 'Artifika';
+    font-weight: bolder;
+    cursor: pointer;
+}
+.section15{
+    height: 150px;
+    margin: 0px;
+}
+.sec15-1{
+    height: 100%;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec15-2{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec15-3{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec15-4{
+    height: 100%;
+    width: 100px;
+}
+.section16{
+    height: 150px;
+    margin: 0px;
+    margin-top: 20px;
+}
+.sec16-1{
+    height: 100%;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec16-2{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec16-3{
+    height: 100%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Artifika';
+}
+.sec16-4{
+    height: 100%;
+    width: 100px;
+}
+
+.block7{
+    height: 500px;
+    
+    margin-top: 45px;
+}
+.b7-section1{
+    height: 100%;
+    text-align: left;
+}
+.b7-section1 h3{
+    color: brown;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.b7-section1 p{
+    color: white;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+.b7-section1 .fa{
+    color: white;
+    background-color: black;
+    margin-left: 30px;
+    height: 20px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    transition: .1s;
+}
+.b7-section1 .fa:hover{
+    color: white;
+    background-color: black;
+    margin-left: 30px;
+    height: 20px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}

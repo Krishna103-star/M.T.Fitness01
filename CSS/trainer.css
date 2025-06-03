@@ -1,0 +1,207 @@
+<style>
+    body{  
+        background-image: url(trainer.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        overflow-x: hidden;
+    }
+    body{  
+        background-image: url(trainer.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        overflow-x: hidden;
+    }
+    .first{
+        height: 100px;
+        margin-right: 5px;
+    }
+    .f1-2{
+        text-align: right;
+    }
+    .f1 ul h2{
+        margin-right: 30px;
+        color: white;
+        margin-bottom: 10px;
+        cursor: pointer;
+        margin-left: 300px;
+    }
+    .f1 ul{
+        text-align: right;
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        column-gap:80px;
+        font-size: 20px;
+        color: white;
+    }
+    .f1 ul a{
+        color: white;
+        text-decoration: none;
+        transition: 1s;
+    }
+    .f1 ul a:hover{
+        color: rgb(20, 106, 187);
+        text-decoration: none;
+        border: none;
+        border-bottom: 2px solid rgba(166, 8, 214, 0.2);
+        padding: 5px;
+    }
+    .f1 ul li{
+        margin-top: 15px;
+    }
+    .second{
+        height: 350px;
+        border-radius: 5%;
+      background-image: linear-gradient(rgba(23, 71, 173,20%),rgba(255, 255, 255,20%));
+        box-shadow: 1444px black;
+    }
+    form{
+        
+        text-decoration-color: aquamarine;
+    }
+    .three{
+        margin: 10px;
+        font-size: 15px;
+    }
+    .four{
+        margin-left: 10px;
+        font-size: 15px;
+    }
+    .five{
+        margin: 10px;
+        font-size: 15px;
+    }
+    .six{
+        margin: 10px;
+        font-size: 15px;
+    }
+    .seven{
+         margin-left: 10px;
+        font-size: 15px;
+    }
+    .eight{
+        margin: 10px;
+        font-size: 15px;
+    }
+    .nine{
+        margin: 10px;
+        font-size: 15px;
+        text-align: center;
+        width: 300px;
+    }
+    h5{
+        color: black;
+        margin-left: 10px;
+    }
+    h1{ 
+        text-align: left;
+        margin-left: 10px;  
+    }
+    .ten{
+        font-size: 15px;
+    }
+    .eleven{
+        font-size: 15px;
+    }
+    .twelve{
+        margin-left: 10px;
+        width: 200px;
+    }
+    h4{
+        margin-left: 10px;
+    }
+    p{
+        margin-left: 10px;
+    }
+    .nine:hover{
+        background-color: lightskyblue;
+        border-color: lightskyblue;
+    }
+    .block7{
+        height: 500px;
+        background-color: black;
+        margin-top: 200px;
+    }
+    .b7-section1{
+        height: 100%;
+        text-align: left;
+    }
+    .b7-section1 h3{
+        color: brown;
+        margin-top: 40px;
+        margin-left: 40px;
+        margin-bottom: 40px;
+    }
+    .b7-section1 p{
+        color: white;
+        margin-top: 40px;
+        margin-left: 40px;
+        margin-bottom: 40px;
+        font-size: 15px;
+        font-family:'Times New Roman', Times, serif;
+    }
+    .b7-section1 .fa{
+        color: white;
+        background-color: brown;
+        margin-left: 30px;
+        height: 20px;
+        width: 25px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 20px;
+        transition: .1s;
+    }
+    .b7-section1 .fa:hover{
+        color: white;
+        background-color: brown;
+        margin-left: 30px;
+        height: 20px;
+        width: 25px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+    }
+    .fa-edit{
+        font-size: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+        color: blue;
+        text-decoration: none;
+    }
+    .fa-eye{
+        font-size: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+        color: blue;
+        text-decoration: none;
+    }
+    .fa-trash{
+        font-size: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+        color: blue;
+        text-decoration: none;
+    }
+    .fa-edit:hover{
+        font-size: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+        color: black;
+        text-decoration: none;
+    }
+    .fa-eye:hover{
+        font-size: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+        color: black;
+        text-decoration: none;
+    }
+    .fa-trash:hover{
+        font-size: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+        color: red;
+        text-decoration: none;
+    }
+</style>
